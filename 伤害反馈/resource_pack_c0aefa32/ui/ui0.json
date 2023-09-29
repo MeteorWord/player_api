@@ -1,0 +1,28 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "panel" : {
+               "controls" : [
+                  {
+                     "label" : {
+                        "font_size" : "small",
+                        "font_type" : "default",
+                        "layer" : 1,
+                        "size" : [ 100, 100 ],
+                        "text" : "0",
+                        "text_alignment" : "center",
+                        "type" : "label"
+                     }
+                  }
+               ],
+               "layer" : 1,
+               "size" : [ 100, 100 ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "ui0"
+}
